@@ -18,4 +18,4 @@ Built for simplicity, speed, and zero compromise on clarity.
 ## 🖼️ Demo
 
 > ⚡ Coming soon: Live website version!  
-> Want to deploy it? [Ask me how.](#)
+> Want to deploy it? [Ask me how.](https://instagram.com/nixam___)
